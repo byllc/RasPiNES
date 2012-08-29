@@ -1,0 +1,9 @@
+img.thumbnail{
+  width: 100px;
+  height: 100px;
+}
+
+image.float{
+  float: left;
+  margin: 5px;
+}
