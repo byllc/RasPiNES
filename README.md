@@ -1,0 +1,1 @@
+This is the repository to hold any code and the tutorial page from my personal Raspberry Pi NES project. 
